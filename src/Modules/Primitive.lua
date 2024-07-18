@@ -899,21 +899,21 @@ SettingsSection:CreateKeybind({
 
 ]]
 
-InformationSection:CreateLabel("Made by Exunys")
+InformationSection:CreateLabel("Made by strblzng")
 
 InformationSection:CreateButton({
 	Name = "Copy GitHub",
 	Callback = function()
-		setclipboard("https://github.com/Exunys")
+		setclipboard("https://github.com/strblzng")
 	end
 })
 
 InformationSection:CreateLabel("AirTeam © 2022 - "..osdate("%Y"))
 
 InformationSection:CreateButton({
-	Name = "Copy Discord Invite",
+	Name = "bomboclatt",
 	Callback = function()
-		setclipboard("https://discord.gg/Ncz3H3quUZ")
+		setclipboard("ur mom")
 	end
 })
 
