@@ -908,7 +908,7 @@ InformationSection:CreateButton({
 	end
 })
 
-InformationSection:CreateLabel("AirTeam © 2022 - "..osdate("%Y"))
+InformationSection:CreateLabel("strblzng © 2024 - "..osdate("%Y"))
 
 InformationSection:CreateButton({
 	Name = "bomboclatt",
