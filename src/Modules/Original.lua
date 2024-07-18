@@ -1,7 +1,6 @@
 --[[
 
-	AirHub V2 by Exunys © CC0 1.0 Universal (2023)
-	https://github.com/Exunys
+	exunys paste i did
 
 ]]
 
@@ -23,9 +22,9 @@ local osdate = os.date
 
 --// Launching
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Roblox-Functions-Library/main/Library.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/strblzng/BumboclattHook/main/Library.lua"))()
 
-local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub-V2/main/src/UI%20Libraries/UI%20Library.lua"))()
+local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/strblzng/BumboclattHook/UI%20Libraries/UI%20Library.lua"))()
 local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Exunys-ESP/main/src/ESP.lua"))()
 local Aimbot = loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V3/main/src/Aimbot.lua"))()
 
