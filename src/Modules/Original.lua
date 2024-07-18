@@ -929,21 +929,21 @@ ProfilesSection:Button({
 	end
 })
 
-InformationSection:Label("Made by Exunys")
+InformationSection:Label("Made by strblzng")
 
 InformationSection:Button({
 	Name = "Copy GitHub",
 	Callback = function()
-		setclipboard("https://github.com/Exunys")
+		setclipboard("https://github.com/strblzng")
 	end
 })
 
-InformationSection:Label("AirTeam © 2022 - "..osdate("%Y"))
+InformationSection:Label("strblzng © 2024 - "..osdate("%Y"))
 
 InformationSection:Button({
-	Name = "Copy Discord Invite",
+	Name = "bumboclatt",
 	Callback = function()
-		setclipboard("https://discord.gg/Ncz3H3quUZ")
+		setclipboard("https://github.com/strblzng/BumboclattHook")
 	end
 })
 
